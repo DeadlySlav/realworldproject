@@ -1,3 +1,9 @@
+#Sources:
+#https://stackoverflow.com/questions/7478366/create-dynamic-urls-in-flask-with-url-for
+#https://github.com/ellisju37073/States (Used as template) 
+#https://stackoverflow.com/questions/902408/how-to-use-variables-in-sql-statement-in-python
+#Worked with Dylan McCormack, Matthew Williams, Michael Horton 
+#Received help from Luma
 
 from mysql import connector
 from flask import Flask, redirect, url_for, request, render_template
